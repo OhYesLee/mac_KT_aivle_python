@@ -32,4 +32,3 @@ while True:
     if try_num == 7 : break
     #  단어가 먼저 완성되면 단어를 맞힌 사람 B가 이긴다.
     if word_show.find("_") == -1: break
-    

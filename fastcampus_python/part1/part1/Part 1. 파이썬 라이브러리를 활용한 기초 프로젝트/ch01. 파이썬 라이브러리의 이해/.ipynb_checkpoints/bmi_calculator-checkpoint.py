@@ -1,5 +1,3 @@
-
-    
 print("BMI 계산기 입니다.")
 
 height = input("신장: ")
